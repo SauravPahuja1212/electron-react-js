@@ -1,0 +1,15 @@
+{
+  "name": "electron-react-js",
+  "version": "1.0.0",
+  "description": "Electron-React js project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Saurav Pahuja",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.1"
+  }
+}
